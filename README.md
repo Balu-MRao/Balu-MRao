@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Balaji and I'm a student</h2>
+<h2 align="left">Hi 👋! Balaji Here</h2>
 
 ###
 
